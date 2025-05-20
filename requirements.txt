@@ -1,0 +1,21 @@
+ipykernel
+pandas
+numpy
+matplotlib
+plotly
+seaborn
+scikit-learn
+pymongo
+from_root
+dill
+certifi
+PyYAML
+boto3
+mypy-boto3-s3
+botocore
+fastapi
+python-multipart
+uvicorn
+jinja2
+imblearn
+-e .    ## This is to ensure that whenever there is some extra package needed to be installed based on a folder and files in it, they will get installed
