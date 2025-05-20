@@ -174,3 +174,5 @@ cython_debug/
 .pypirc
 
 artifact/
+crashcourse.txt
+projectflow.txt
