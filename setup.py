@@ -7,3 +7,5 @@ setup(
     author_email="patiladarshreddy99@gmail.com",
     packages=find_packages()
 )
+
+print("Hello World")
